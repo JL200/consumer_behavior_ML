@@ -1,0 +1,1 @@
+This is the repository with a small project to review and apply machine learning, which uses Random Forest Classifier to classify consumers and predict based on their ages and estimated salaries whether or not they make a purchase when viewing an ad.
